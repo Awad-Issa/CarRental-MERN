@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48405e5d-a996-447d-b14c-4197685bf446" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middlewares/AuthMiddleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Pricing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Pricing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Testimonials.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/misc/Testimonials.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/navigations/Footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/navigations/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/navigations/MenuBar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/navigations/MenuBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/pages/AboutUs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/pages/ContactUs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/components/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/images/nan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/images/patrick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/images/space.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/layout/Layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/layout/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/car.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/car.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/user.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/user.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/car.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/car.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/app.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/app.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UwUG0LkDLfM5NVZRUsbzgDCbFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Awad's&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.16.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Awad Issa/Desktop/MERN-Project-RentalContenintal/server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Awad Issa\Desktop\MERN-Project-RentalContenintal\server" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48405e5d-a996-447d-b14c-4197685bf446" name="Changes" comment="" />
+      <created>1693850037117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693850037117</updated>
+      <workItem from="1693850038249" duration="11038000" />
+      <workItem from="1693916608057" duration="1216000" />
+      <workItem from="1693956750993" duration="10133000" />
+      <workItem from="1694005594561" duration="26154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
